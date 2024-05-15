@@ -1,1 +1,1 @@
-todo
+These files go in the main directory of Internal Storage. The name should be the target app's package name, and its contents the xpath query where contentDescription is the app's label as listed in Mantis.
